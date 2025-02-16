@@ -52,12 +52,11 @@ java ChatClient
 
 | Server | Client |
 |--------|--------|
-|![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS3.png?raw=true) |
-|![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS2.png?raw=true) |
+| ![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS3.png?raw=true) | ![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS2.png?raw=true) |
+|  |
 
 
-
-  ![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS4.png?raw=true) 
+![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS4.png?raw=true) |
 
 ## 📝 License
 
