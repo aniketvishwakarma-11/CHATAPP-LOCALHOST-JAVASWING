@@ -52,8 +52,8 @@ java ChatClient
 
 | Server | Client |
 |--------|--------|
-| This is the how the Server side looks![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS3.png?raw=true) |
-This is the how the Client side looks ![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS2.png?raw=true) |
+|![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS3.png?raw=true) |
+|![ChatApp Screenshot](https://github.com/aniketvishwakarma-11/CHATAPP-LOCALHOST-JAVASWING/blob/main/Images/SS2.png?raw=true) |
 
 
 
